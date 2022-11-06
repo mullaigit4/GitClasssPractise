@@ -11,4 +11,13 @@ public class GitClass {
 	public void multiple() {
 		System.out.println("multiple");
 	}
+	public void india() {
+		System.out.println("india");
+	}
+	public void kerala() {
+		System.out.println("kerala");
+	}
+	public void andhra() {
+		System.out.println("andhra");
+	}
 }

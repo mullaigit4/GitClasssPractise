@@ -21,4 +21,13 @@ public class GitClass {
 	public void mtd3() {
 		System.out.println("3");
 	}
+	public void tamilnadu() {
+		System.out.println("tamil");
+	}
+	public void kerala() {
+		System.out.println("malayalam");
+	}
+	public void andhra() {
+		System.out.println("telugu");
+	}
 }

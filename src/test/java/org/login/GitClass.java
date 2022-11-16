@@ -30,4 +30,14 @@ public class GitClass {
 	public void andhra() {
 		System.out.println("telugu");
 	}
+	
+	public void tc4() {
+		System.out.println("Testcase4");
+	}
+	public void tc5() {
+		System.out.println("Testcase5");
+	}
+	public void tc6() {
+		System.out.println("Testcase6");
+	}
 }

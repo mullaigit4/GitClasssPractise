@@ -30,7 +30,15 @@ public class GitClass {
 	public void andhra() {
 		System.out.println("telugu");
 	}
-	
+	private void tc1() {
+		System.out.println("Testcase1");
+	}
+	private void tc2() {
+		System.out.println("Testcase2");
+	}
+	private void tc3() {
+		System.out.println("Testcase3");
+	}
 	public void tc4() {
 		System.out.println("Testcase4");
 	}
@@ -39,5 +47,7 @@ public class GitClass {
 	}
 	public void tc6() {
 		System.out.println("Testcase6");
-	}
+
+	
+}
 }
